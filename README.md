@@ -12,9 +12,6 @@ Hi there 👋, I am Hemant Kumbhalkar <br><br>🧑‍💻I am a Front-end Develo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hemantk1234&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantk1234&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/HemantkEtc116)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
